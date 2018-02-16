@@ -15,7 +15,7 @@ Get Telegram channel details
       * `{is_channel: true, title: CHANNEL_TITLE, description: CHANNEL_DESCRIPTION, members: CHANNEL_MEMBERS, photo: CHANNEL_PHOTO_URL}`
 
 
-    [VIEW DEMO](https://cdn.rawgit.com/miladesign/TelegramChannelDetails/master/demo/index.html)
+[VIEW DEMO](https://cdn.rawgit.com/miladesign/TelegramChannelDetails/master/demo/index.html)
     
 Created by: [MilaDesign](http://miladesign.ir)
 
